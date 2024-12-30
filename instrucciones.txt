@@ -1,0 +1,7 @@
+Instalamos una extension para VS llamado ESLint.
+
+Abrimos la Terminal y escribimos:
+
+npx eslint app.js
+
+npx eslint app.js --fix
